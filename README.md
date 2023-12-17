@@ -1,5 +1,7 @@
+![MasterHead](https://wallpapercave.com/wp/wp1936396.jpg)
 <h1 align="center">Hi 👋, I'm Yunus</h1>
 <h3 align="center">ELECTRIC AND ELECTRONIC ENGINEER IN TRAINING</h3>
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 
 - 🌱 I’m currently learning **C, C++, STM-32, VHDL**
 
