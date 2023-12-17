@@ -1,5 +1,3 @@
-[![MasterHead](https://wallpapercave.com/w/wp1936396)
-
 <h1 align="center">Hi 👋, I'm Yunus</h1>
 <h3 align="center">ELECTRIC AND ELECTRONIC ENGINEER IN TRAINING</h3>
 
